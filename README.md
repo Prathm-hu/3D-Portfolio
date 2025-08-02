@@ -1,12 +1,39 @@
-# React + Vite
+# 🚀 3D Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **3D interactive portfolio** built using **React**, **Three.js**, and **GSAP**. It showcases modern web animation, smooth transitions, and a dynamic user experience — perfect for highlighting your personal projects, skills, and contact info.
 
-Currently, two official plugins are available:
+![3D Portfolio Preview](./images/project2.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[🔗 Visit Live Portfolio](https://your-portfolio-url.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🌌 3D animated hero section using Three.js
+- 🎯 Smooth GSAP animations
+- 🌓 Dark theme design
+- 📱 Fully responsive layout
+- 🧭 Scroll navigation to sections: About, Projects, Contact
+- 🔗 Social icons and CTA buttons
+
+---
+
+## 🔧 Technologies Used
+
+- [React](https://reactjs.org/)
+- [Three.js](https://threejs.org/)
+- [GSAP](https://greensock.com/gsap/)
+- [Tailwind CSS](https://tailwindcss.com/) *(if used)*
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/introduction)
+- [Drei](https://github.com/pmndrs/drei) *(Three.js helpers for React)*
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/3d-portfolio.git
+cd 3d-portfolio
