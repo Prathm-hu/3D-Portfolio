@@ -4,7 +4,7 @@ This is a **3D interactive portfolio** built using **React**, **Three.js**, and 
 
 ![3D Portfolio Preview](./images/project2.png)
 
-[🔗 Visit Live Portfolio](https://your-portfolio-url.com)
+[🔗 Visit Live Portfolio](https://portfolio-virid-xi-38.vercel.app/)
 
 ---
 
