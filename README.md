@@ -2,7 +2,7 @@
 
 This is a **3D interactive portfolio** built using **React**, **Three.js**, and **GSAP**. It showcases modern web animation, smooth transitions, and a dynamic user experience — perfect for highlighting your personal projects, skills, and contact info.
 
-![3D Portfolio Preview](/images/project2.png)
+![3D Portfolio Preview](images/project2.png)
 
 [🔗 Visit Live Portfolio](https://portfolio-virid-xi-38.vercel.app/)
 
