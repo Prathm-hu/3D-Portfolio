@@ -35,5 +35,5 @@ This is a **3D interactive portfolio** built using **React**, **Three.js**, and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/3d-portfolio.git
+git clone https://github.com/Prathm-hu/3d-portfolio.git
 cd 3d-portfolio
